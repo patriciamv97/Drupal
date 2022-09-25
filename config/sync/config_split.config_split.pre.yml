@@ -1,0 +1,15 @@
+uuid: 4e67f54e-78d7-4f4c-bf6b-e77e73a9759b
+langcode: en
+status: true
+dependencies: {  }
+id: pre
+label: Pre
+description: ''
+weight: 0
+stackable: false
+storage: folder
+folder: ../config/pre
+module: {  }
+theme: {  }
+complete_list: {  }
+partial_list: {  }
