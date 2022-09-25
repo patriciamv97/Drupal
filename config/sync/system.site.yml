@@ -2,7 +2,7 @@ _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
 uuid: 47e8f5e2-6b3f-4bf9-890e-49e8be5dfcfd
-name: Local
+name: PRE
 mail: test@test.com
 slogan: ''
 page:
